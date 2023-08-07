@@ -1,1 +1,1 @@
-I use this github for projects I don't wanna put on the main and for pages.
+old projects from a year or two ago and I'll probably use this as my more used github
