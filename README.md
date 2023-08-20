@@ -1,1 +1,1 @@
-old projects from a year or two ago and I'll probably use this as my more used github
+old projects when i was younger, I don't use this as often and rarely post repos here
